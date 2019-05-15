@@ -1,0 +1,26 @@
+v4.0 :
+Refonte total appliction
+Ajout d'un système login avec firebase
+
+v4.1 :
+Traduction en francais des menus
+
+v4.2 :
+Ajout Tools WEB (Fusion du login avec ancienne appli)
+Refonte affichage + adaptation toutes les tailles
+
+v4.3 :
+Ajout des notifications
+
+v4.4 :
+Ajout fond d'écran
+
+v4.5:
+Ajout bouton pour word online
+
+v4.6 :
+Modificaiton de l'écran main
+Plus logo du login
+
+v4.6.1 : 
+Ajout EE
